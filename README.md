@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://open.spotify.com/playlist/2d2VEowBqVyGDa0nROeOPf?si=51422aaa5cae44f0https://open.spotify.com/track/39m83gjG1lNr7Un0dJndFw?si=6e14849f2d924033" alt="Zees Spotify Playing" width="350" />](https://open.spotify.com/track/39m83gjG1lNr7Un0dJndFw?si=6e14849f2d924033)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Zees Spotify Playing" width="350" />](https://open.spotify.com/playlist/2d2VEowBqVyGDa0nROeOPf?si=51422aaa5cae44f0)
 
 ### Connect with me:
 
