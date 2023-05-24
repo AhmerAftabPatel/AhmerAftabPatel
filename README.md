@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play multiplayer games / otaku
+- I like creating fancy dashboards and data visualisations.
 
 ### Spotify Playing 🎧
 
