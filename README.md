@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play multiplayer games / otaku
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play multiplayer games
 - I like creating fancy dashboards and data visualisations.
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Zees Spotify Playing" width="350" />](https://open.spotify.com/playlist/2d2VEowBqVyGDa0nROeOPf?si=51422aaa5cae44f0)
 
 ### Connect with me:
 
