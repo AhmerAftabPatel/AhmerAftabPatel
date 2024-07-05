@@ -1,7 +1,4 @@
-### Hi there, I'm Ahmer - aka [The Golden Dev][website] 👋
-
-[![Website](https://theahmer.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ahmer79001663?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAhmer79001663&screen_name=Ahmer79001663)
+### Hi there, I'm Ahmer
 
 ## I'm a Student, Developer, and Gamer!!
 
