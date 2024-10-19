@@ -44,6 +44,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upload image to S3 from AWS Lambda & serverless (NestJs)](https://medium.com/aws-tip/upload-image-to-s3-from-aws-lambda-serverless-nestjs-72218cd32111).
 - [Developer vs Good Developer](https://thegoldenblogger.medium.com/developer-vs-good-developer-ed741bcd923c)
 - [CSS is like your girlfriend no one understands](https://thegoldenblogger.medium.com/css-is-like-your-girlfriend-no-one-understands-7e26ee88a204)
 - [E-port a dream for million of Indians](https://thegoldenblogger.medium.com/e-sports-a-dream-of-millions-of-indians-345265a3cb31)
